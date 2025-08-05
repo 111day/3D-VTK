@@ -1,0 +1,1 @@
+项目主要用到的功能包含在ChoseRangePlyViewer和SliceViewer组件，其余的仅作参考，Viewer3D是最基础的功能，直接加载vti文件并渲染，可以从这个组件开始学习。
